@@ -1,0 +1,12 @@
+{
+  "name": "git-workflow",
+  "description": "Land changes through GitHub flow: branch, commit, pull request, CI, merge, clean up.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Isaac Broyles"
+  },
+  "homepage": "https://github.com/isaacbroyles/ai-sdlc/tree/main/plugins/git-workflow",
+  "repository": "https://github.com/isaacbroyles/ai-sdlc",
+  "license": "MIT",
+  "keywords": ["git", "github", "github-flow", "pull-request", "ci"]
+}

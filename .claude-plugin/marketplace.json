@@ -1,0 +1,16 @@
+{
+  "name": "ai-sdlc",
+  "owner": {
+    "name": "Isaac Broyles"
+  },
+  "metadata": {
+    "description": "Agent skills for an AI-driven software development lifecycle."
+  },
+  "plugins": [
+    {
+      "name": "git-workflow",
+      "source": "./plugins/git-workflow",
+      "description": "Land changes through GitHub flow: branch, commit, pull request, CI, merge, clean up."
+    }
+  ]
+}
