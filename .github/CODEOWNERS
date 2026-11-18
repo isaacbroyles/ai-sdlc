@@ -1,0 +1,6 @@
+# Everything needs the maintainer. The paths below are the ones that can change
+# what an installed skill does or runs on a user's machine.
+*                       @isaacbroyles
+/plugins/               @isaacbroyles
+/.claude-plugin/        @isaacbroyles
+/.github/               @isaacbroyles
