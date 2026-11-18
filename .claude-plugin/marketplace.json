@@ -1,16 +1,19 @@
 {
   "name": "ai-sdlc",
   "owner": {
-    "name": "Isaac Broyles"
+    "name": "Isaac Broyles",
+    "url": "https://github.com/isaacbroyles"
   },
   "metadata": {
-    "description": "Agent skills for an AI-driven software development lifecycle."
+    "description": "AI SDLC skills for Claude Code: agent skills for an AI-driven software development lifecycle, starting with a GitHub flow skill for branches, pull requests, CI, and merges."
   },
   "plugins": [
     {
       "name": "git-workflow",
       "source": "./plugins/git-workflow",
-      "description": "Land changes through GitHub flow: branch, commit, pull request, CI, merge, clean up."
+      "description": "GitHub flow skill: branch, commit, open a pull request, wait for CI and fix failures, merge, and clean up.",
+      "category": "development",
+      "tags": ["git", "github", "github-flow", "pull-request", "ci", "sdlc"]
     }
   ]
 }

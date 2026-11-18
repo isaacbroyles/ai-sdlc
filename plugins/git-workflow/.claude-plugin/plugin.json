@@ -1,12 +1,25 @@
 {
   "name": "git-workflow",
-  "description": "Land changes through GitHub flow: branch, commit, pull request, CI, merge, clean up.",
+  "description": "GitHub flow skill: branch, commit, open a pull request, wait for CI and fix failures, merge, and clean up.",
   "version": "0.1.0",
   "author": {
-    "name": "Isaac Broyles"
+    "name": "Isaac Broyles",
+    "url": "https://github.com/isaacbroyles"
   },
   "homepage": "https://github.com/isaacbroyles/ai-sdlc/tree/main/plugins/git-workflow",
   "repository": "https://github.com/isaacbroyles/ai-sdlc",
   "license": "MIT",
-  "keywords": ["git", "github", "github-flow", "pull-request", "ci"]
+  "keywords": [
+    "git",
+    "github",
+    "github-flow",
+    "pull-request",
+    "ci",
+    "code-review",
+    "git-workflow",
+    "ai-sdlc",
+    "claude-code",
+    "claude-skills",
+    "agent-skills"
+  ]
 }

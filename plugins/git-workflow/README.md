@@ -1,6 +1,6 @@
-# git-workflow
+# git-workflow: GitHub flow skill for Claude Code
 
-Skills for landing changes through source control.
+A Claude Code plugin from [ai-sdlc](../../README.md) for landing changes through source control. Its `github-flow` skill automates the pull request lifecycle: branch, commit, open the PR, wait for CI, merge, and clean up, following your repository's own conventions.
 
 ## Skills
 
